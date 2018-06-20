@@ -18,3 +18,8 @@ Kodutööna peab looma Chrome extension'i selliselt, et nõuded oleksid täidetu
 
 * Chrome extension API [JavaScript APIs](https://developer.chrome.com/extensions/api_index/)
 * Chrome extension'ite näited [Sample Extensions](https://developer.chrome.com/extensions/samples/)
+
+## Kirjeldus
+
+Extension muudab sõnu, mida kasutajal on võimalik ise valida eraldi optionsi lehelt.
+
